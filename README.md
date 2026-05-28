@@ -20,9 +20,3 @@ This repository contains an end-to-end Data Science pipeline, covering everythin
 * **Language:** Python 3
 * **Libraries:** `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`
 * **Environment:** Google Colab / Jupyter Notebook
-
-## How to Run
-1. **Clone the repository** to your local machine.
-2. **Setup:** Ensure you have the required libraries installed:
-   ```bash
-   pip install pandas numpy matplotlib seaborn scikit-learn
